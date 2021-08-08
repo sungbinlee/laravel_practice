@@ -53,7 +53,7 @@
         </div>
 
         <div>
-            @include('layouts.footter')
+            @include('layouts.footer')
         </div>
     </div>
 </body>
